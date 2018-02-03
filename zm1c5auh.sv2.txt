@@ -1,0 +1,42 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+	new file:   .idea/kotlinc.xml
+	new file:   .idea/libraries/KotlinJavaRuntime.xml
+	new file:   .idea/misc.xml
+	new file:   .idea/modules.xml
+	new file:   .idea/vcs.xml
+	new file:   .idea/workspace.xml
+	new file:   KotlinTest.iml
+	new file:   e2tu0uiy.rop.txt
+	new file:   hsfdjd3h.amv.txt
+	new file:   out/production/KotlinTest/META-INF/KotlinTest.kotlin_module
+	new file:   out/production/KotlinTest/my/demo/ConditionalExpression1Kt.class
+	new file:   out/production/KotlinTest/my/demo/ConditionalExpression2Kt.class
+	new file:   out/production/KotlinTest/my/demo/DefiningFunction1Kt.class
+	new file:   out/production/KotlinTest/my/demo/DefiningFunction2Kt.class
+	new file:   out/production/KotlinTest/my/demo/DefiningFunction3Kt.class
+	new file:   out/production/KotlinTest/my/demo/DefiningVariable1Kt.class
+	new file:   out/production/KotlinTest/my/demo/DefiningVariable2Kt.class
+	new file:   out/production/KotlinTest/my/demo/DefiningVariable3Kt.class
+	new file:   out/production/KotlinTest/my/demo/NullableValue1Kt.class
+	new file:   out/production/KotlinTest/my/demo/NullableValue2Kt.class
+	new file:   out/production/KotlinTest/my/demo/StringTemplatesKt.class
+	new file:   src/ConditionalExpression1.kt
+	new file:   src/ConditionalExpression2.kt
+	new file:   src/DefiningFunction1.kt
+	new file:   src/DefiningFunction2.kt
+	new file:   src/DefiningFunction3.kt
+	new file:   src/DefiningVariable1.kt
+	new file:   src/DefiningVariable2.kt
+	new file:   src/DefiningVariable3.kt
+	new file:   src/NullableValue1.kt
+	new file:   src/NullableValue2.kt
+	new file:   src/StringTemplates.kt
+
