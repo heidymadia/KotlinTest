@@ -1,4 +1,5 @@
-package my.demo
+package my.demo.basic
+
 fun main(args: Array<String>){
     var x = 5
     x += 1

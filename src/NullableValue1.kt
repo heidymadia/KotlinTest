@@ -1,4 +1,4 @@
-package my.demo
+package my.demo.basic
 
 fun parseInt(str: String): Int? {
     return str.toIntOrNull()

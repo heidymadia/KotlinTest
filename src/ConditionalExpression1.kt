@@ -1,4 +1,5 @@
-package my.demo
+package my.demo.basic
+
 fun maxOf1(a: Int, b: Int): Int {
     if (a > b) {
         return a

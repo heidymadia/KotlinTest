@@ -1,4 +1,5 @@
-package my.demo
+package my.demo.basic
+
 fun main(args: Array<String>) {
     var a = 1
     // simple name in template:

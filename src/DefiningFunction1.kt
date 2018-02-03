@@ -1,4 +1,5 @@
-package my.demo
+package my.demo.basic
+
 fun sum1(a: Int, b:Int): Int {
     return a + b
 }

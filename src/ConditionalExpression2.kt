@@ -1,4 +1,5 @@
-package my.demo
+package my.demo.basic
+
 fun maxOf2(a: Int, b: Int) = if (a > b) a else b
 
 fun main(args: Array<String>) {

@@ -1,4 +1,5 @@
-package my.demo
+package my.demo.basic
+
 fun sum2(a: Int, b: Int) = a + b
 
 fun main(args: Array<String>) {

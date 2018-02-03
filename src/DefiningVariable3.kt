@@ -1,4 +1,5 @@
-package my.demo
+package my.demo.basic
+
 val PI = 3.14
 var x = 0
 
